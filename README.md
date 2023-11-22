@@ -2,7 +2,7 @@ Matías Ezequiel Simón Lezcano - Desarrollador Web Full Stack
 
 ¡Hola! Soy Matías Ezequiel Simón Lezcano, un desarrollador web Full Stack de 22 años apasionado por crear soluciones innovadoras y funcionales. Mi sólida formación académica y mi experiencia práctica me han permitido desarrollar habilidades técnicas que abarcan desde el frontend hasta el backend, junto con una destacada capacidad para liderar y motivar equipos hacia el logro de objetivos.
 
-Acerca de mí
+Acerca de mí:
 
 Desde mis días de estudio, descubrí mi pasión por liderar proyectos y enfrentar desafíos técnicos. Disfruto trabajando en entornos dinámicos y colaborando con equipos diversos, lo que me ha permitido contribuir significativamente a proyectos exitosos.
 Objetivo Profesional
@@ -16,7 +16,7 @@ Backend: Node.js, Express.js
 Frontend: React.js, Redux.js
 Base de datos: SQL, PostgreSQL, Sequelize.js
 
-Contacto
+Contacto:
 
 Si deseas contactarme para colaboraciones, proyectos interesantes o simplemente para hablar sobre tecnología, ¡no dudes en hacerlo!
 📧 Correo electrónico: matiasesimonlezcano@gmail.com
